@@ -5,4 +5,7 @@
 
 # containerbase java
 
-This repository is the source for the Docker Hub image `containerbase/java`. Commits to `main` branch are automatically built and published.
+This repository is the source for the Docker Hub image `containerbase/java`.
+Commits to `main` branch are automatically built and published.
+
+This docker image is using [Eclipse Adoptium](https://adoptium.net/) OpenJDK binaries.
