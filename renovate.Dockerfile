@@ -9,4 +9,4 @@ FROM scratch
 ENV JAVA_VERSION=8.0.302+8
 
 # renovate: datasource=adoptium-java depName=java
-ENV JAVA_VERSION=11.0.12+7
+ENV JAVA_VERSION=11.0.13+8
