@@ -1,6 +1,6 @@
 ![Build status](https://github.com/containerbase/java/workflows/build/badge.svg)
-![Docker Image Size (latest)](https://img.shields.io/docker/image-size/containerbase/java/latest)
-[![Docker Image Version](https://img.shields.io/docker/v/containerbase/java/latest)](https://hub.docker.com/r/containerbase/java)
+![Docker Image Size (latest)](https://badgen.net/docker/size/containerbase/java/latest)
+[![Docker Image Version](https://badgen.net/docker/metadata/version/containerbase/java/latest)](https://hub.docker.com/r/containerbase/java)
 ![GitHub](https://img.shields.io/github/license/containerbase/java)
 
 # containerbase java

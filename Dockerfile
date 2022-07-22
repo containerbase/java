@@ -8,5 +8,8 @@ RUN install-tool java
 
 LABEL org.opencontainers.image.source="https://github.com/containerbase/java" \
       org.opencontainers.image.version="${JAVA_VERSION}"
+# Compatibillity
+LABEL org.label-schema.vcs-url="https://github.com/containerbase/java" \
+      org.label-schema.version="${JAVA_VERSION}"
 
 USER 1000
