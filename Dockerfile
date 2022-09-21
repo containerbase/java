@@ -1,7 +1,7 @@
 # renovate: datasource=adoptium-java depName=java
 ARG JAVA_VERSION=8.0.345+1
 
-FROM ghcr.io/containerbase/buildpack:4.15.1@sha256:07391972cb97938784ecd83e18ddd9d5deab4f164cc26d3219e15a4861f04103
+FROM ghcr.io/containerbase/buildpack:4.16.0@sha256:71afbe270fcdef75eb363bdeb9191c961c29263bb394fa01723e7df6d45b463d
 
 ARG JAVA_VERSION
 RUN install-tool java
